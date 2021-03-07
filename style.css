@@ -1,0 +1,35 @@
+body {
+    font-family: "Calibri", "Trebuchet MS", Helvetica, sans-serif;
+    text-align: center;
+       }
+
+p1 {
+    font-family: "Calibri", "Trebuchet MS", Helvetica,sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+div {
+    font-family: "Calibri", "Trebuchet MS", Helvetica,sans-serif;
+    text-align: center;
+}
+#addButton {
+    background: yellow;
+    font-weight: bold;
+}
+
+#doneButton {
+    display: inline;
+    background-image: url(images/imgDoneButton.PNG);
+    height: 15px;
+    width: 15px;
+    background-size: cover;
+}
+
+#deleteButton {  
+    display: inline;
+    background-image: url(images/imgDeleteButton.PNG);
+    height: 15px;
+    width: 15px;
+    background-size: cover;
+}
