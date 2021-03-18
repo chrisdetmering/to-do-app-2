@@ -1,7 +1,7 @@
 body {
     font-family: "Calibri", "Trebuchet MS", Helvetica, sans-serif;
     text-align: center;
-       }
+}
 
 p1 {
     font-family: "Calibri", "Trebuchet MS", Helvetica,sans-serif;
@@ -16,7 +16,7 @@ div {
 
 ul {
     list-style-type: none;
-  }
+}
 
  #addButton {
     background: yellow;
